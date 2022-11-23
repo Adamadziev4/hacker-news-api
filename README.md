@@ -1,6 +1,6 @@
 # О проекте
 
-Проект написан на React JS с использованием шаблона Create React App, Typescript и Redux Toolkit
+Проект написан на React JS с использованием шаблона Create React App, Redux
 
 ## Запуск проекта
 
